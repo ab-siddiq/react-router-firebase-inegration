@@ -1,0 +1,11 @@
+.header nav a{
+    text-decoration: none;
+    margin: 10px;
+    color: blue;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.header nav a:hover{
+    color: burlywood;
+}
